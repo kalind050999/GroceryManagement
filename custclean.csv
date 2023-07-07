@@ -1,0 +1,501 @@
+custid,firstname,lastname,email,custno,custjoining,custzip,,
+1,tyesha,freitag,tyeshafreitag,1784910064,2/26/13,46815,,9122709406
+2,dean,stoecker,deanstoecker,2578000162,8/3/20,50709,,"INSERT into customer values (2,dean,stoecker,deanstoecker,2578000162,44046,50709"
+3,annelle,pickney,annellepickney,2678328803,4/5/09,40882,,"INSERT into customer values (3,annelle,pickney,annellepickney,2678328803,39908,40882"
+4,margareta,tacy,margaretatacy,9163711253,9/20/19,37442,,"INSERT into customer values (4,margareta,tacy,margaretatacy,9163711253,43728,37442"
+5,meghann,placencia,meghannplacencia,8364199908,4/25/11,30535,,"INSERT into customer values (5,meghann,placencia,meghannplacencia,8364199908,40658,30535"
+6,kendrick,cieslak,kendrickcieslak,1965718728,8/4/19,17556,,"INSERT into customer values (6,kendrick,cieslak,kendrickcieslak,1965718728,43681,17556"
+7,polly,isenberg,pollyisenberg,4909690118,7/21/14,68564,,"INSERT into customer values (7,polly,isenberg,pollyisenberg,4909690118,41841,68564"
+8,evelyne,racicot,evelyneracicot,2570002282,8/4/03,35163,,"INSERT into customer values (8,evelyne,racicot,evelyneracicot,2570002282,37837,35163"
+9,augustus,delaune,augustusdelaune,8100778634,3/18/18,27211,,"INSERT into customer values (9,augustus,delaune,augustusdelaune,8100778634,43177,27211"
+10,shawanda,client,shawandaclient,7539425666,7/30/10,85043,,"INSERT into customer values (10,shawanda,client,shawandaclient,7539425666,40389,85043"
+11,loura,coffield,louracoffield,9423398417,1/16/15,21206,,"INSERT into customer values (11,loura,coffield,louracoffield,9423398417,42020,21206"
+12,lorriane,machin,lorrianemachin,9122709406,6/19/06,84011,,"INSERT into customer values (12,lorriane,machin,lorrianemachin,9122709406,38887,84011"
+13,lacey,osier,laceyosier,9271011052,9/16/00,61334,,"INSERT into customer values (13,lacey,osier,laceyosier,9271011052,36785,61334"
+14,nicki,malchow,nickimalchow,6493369791,7/2/07,14717,,"INSERT into customer values (14,nicki,malchow,nickimalchow,6493369791,39265,14717"
+15,sidney,bodiford,sidneybodiford,1754940481,11/9/18,86405,,"INSERT into customer values (15,sidney,bodiford,sidneybodiford,1754940481,43413,86405"
+16,barbie,cun,barbiecun,1588728683,8/5/04,44031,,"INSERT into customer values (16,barbie,cun,barbiecun,1588728683,38204,44031"
+17,elden,hanshaw,eldenhanshaw,7635154228,2/5/01,31993,,"INSERT into customer values (17,elden,hanshaw,eldenhanshaw,7635154228,36927,31993"
+18,blossom,loggins,blossomloggins,6589953360,9/11/02,62187,,"INSERT into customer values (18,blossom,loggins,blossomloggins,6589953360,37510,62187"
+19,joseph,dennie,josephdennie,1105114984,1/14/15,19777,,"INSERT into customer values (19,joseph,dennie,josephdennie,1105114984,42018,19777"
+20,pattie,markley,pattiemarkley,9861162526,7/6/12,36076,,"INSERT into customer values (20,pattie,markley,pattiemarkley,9861162526,41096,36076"
+21,genevieve,spahn,genevievespahn,5922908995,2/14/20,38772,,"INSERT into customer values (21,genevieve,spahn,genevievespahn,5922908995,43875,38772"
+22,luciano,jaworski,lucianojaworski,3596467226,3/4/19,16986,,"INSERT into customer values (22,luciano,jaworski,lucianojaworski,3596467226,43528,16986"
+23,noe,mahler,noemahler,2004569133,2/9/13,84120,,"INSERT into customer values (23,noe,mahler,noemahler,2004569133,41314,84120"
+24,karri,bransford,karribransford,5922567162,12/3/18,59409,,"INSERT into customer values (24,karri,bransford,karribransford,5922567162,43437,59409"
+25,larae,bonney,laraebonney,1309152266,6/11/17,94888,,"INSERT into customer values (25,larae,bonney,laraebonney,1309152266,42897,94888"
+26,sharita,fierros,sharitafierros,7119638757,2/17/06,90257,,"INSERT into customer values (26,sharita,fierros,sharitafierros,7119638757,38765,90257"
+27,frederica,perla,fredericaperla,3012597916,8/21/05,97673,,"INSERT into customer values (27,frederica,perla,fredericaperla,3012597916,38585,97673"
+28,mara,elder,maraelder,8345908329,1/21/08,60941,,"INSERT into customer values (28,mara,elder,maraelder,8345908329,39468,60941"
+29,enola,volz,enolavolz,7144528062,2/17/07,10051,,"INSERT into customer values (29,enola,volz,enolavolz,7144528062,39130,10051"
+30,leslie,mccardell,lesliemccardell,5710300868,4/6/20,14145,,"INSERT into customer values (30,leslie,mccardell,lesliemccardell,5710300868,43927,14145"
+31,gina,coria,ginacoria,7560238869,11/23/08,74245,,"INSERT into customer values (31,gina,coria,ginacoria,7560238869,39775,74245"
+32,marietta,taing,mariettataing,8963534218,3/27/03,76791,,"INSERT into customer values (32,marietta,taing,mariettataing,8963534218,37707,76791"
+33,karlyn,buchholtz,karlynbuchholtz,3898728456,6/5/14,41049,,"INSERT into customer values (33,karlyn,buchholtz,karlynbuchholtz,3898728456,41795,41049"
+34,herma,renken,hermarenken,1181317267,11/3/16,64042,,"INSERT into customer values (34,herma,renken,hermarenken,1181317267,42677,64042"
+35,gertrud,gillispie,gertrudgillispie,1324713711,3/21/14,36002,,"INSERT into customer values (35,gertrud,gillispie,gertrudgillispie,1324713711,41719,36002"
+36,kelsie,lavoie,kelsielavoie,3497699556,2/12/02,45946,,"INSERT into customer values (36,kelsie,lavoie,kelsielavoie,3497699556,37299,45946"
+37,selena,jenney,selenajenney,1972814279,10/26/12,97285,,"INSERT into customer values (37,selena,jenney,selenajenney,1972814279,41208,97285"
+38,teri,schooley,terischooley,3003749680,8/20/16,73301,,"INSERT into customer values (38,teri,schooley,terischooley,3003749680,42602,73301"
+39,lizette,campana,lizettecampana,4656217792,4/6/20,71112,,"INSERT into customer values (39,lizette,campana,lizettecampana,4656217792,43927,71112"
+40,mayra,luby,mayraluby,5135066791,9/9/01,36322,,"INSERT into customer values (40,mayra,luby,mayraluby,5135066791,37143,36322"
+41,luisa,finneran,luisafinneran,7978845696,7/5/03,48400,,"INSERT into customer values (41,luisa,finneran,luisafinneran,7978845696,37807,48400"
+42,genoveva,herrod,genovevaherrod,4617838141,2/1/00,77776,,"INSERT into customer values (42,genoveva,herrod,genovevaherrod,4617838141,36557,77776"
+43,tandra,toon,tandratoon,5081582693,4/26/07,22080,,"INSERT into customer values (43,tandra,toon,tandratoon,5081582693,39198,22080"
+44,zoe,mangrum,zoemangrum,9432367385,11/7/17,57666,,"INSERT into customer values (44,zoe,mangrum,zoemangrum,9432367385,43046,57666"
+45,marquerite,salaam,marqueritesalaam,8861602378,4/3/08,26213,,"INSERT into customer values (45,marquerite,salaam,marqueritesalaam,8861602378,39541,26213"
+46,alva,fonte,alvafonte,9777554673,1/21/12,91535,,"INSERT into customer values (46,alva,fonte,alvafonte,9777554673,40929,91535"
+47,maudie,cage,maudiecage,8261624741,10/19/16,80028,,"INSERT into customer values (47,maudie,cage,maudiecage,8261624741,42662,80028"
+48,hilde,greaves,hildegreaves,2928508416,12/6/06,89358,,"INSERT into customer values (48,hilde,greaves,hildegreaves,2928508416,39057,89358"
+49,christiana,rippe,christianarippe,8570381741,6/7/03,62453,,"INSERT into customer values (49,christiana,rippe,christianarippe,8570381741,37779,62453"
+50,bulah,warr,bulahwarr,3203115391,2/2/13,61480,,"INSERT into customer values (50,bulah,warr,bulahwarr,3203115391,41307,61480"
+51,azzie,stolte,azziestolte,6097656788,9/11/11,72824,,"INSERT into customer values (51,azzie,stolte,azziestolte,6097656788,40797,72824"
+52,sharri,whistler,sharriwhistler,5368526928,6/10/10,31265,,"INSERT into customer values (52,sharri,whistler,sharriwhistler,5368526928,40339,31265"
+53,rebecka,holliman,rebeckaholliman,7080686183,7/26/18,18637,,"INSERT into customer values (53,rebecka,holliman,rebeckaholliman,7080686183,43307,18637"
+54,bryce,muse,brycemuse,4086337053,6/6/09,74909,,"INSERT into customer values (54,bryce,muse,brycemuse,4086337053,39970,74909"
+55,merideth,marcus,meridethmarcus,5849254394,6/14/20,83861,,"INSERT into customer values (55,merideth,marcus,meridethmarcus,5849254394,43996,83861"
+56,nova,boden,novaboden,9230267873,3/7/08,60931,,"INSERT into customer values (56,nova,boden,novaboden,9230267873,39514,60931"
+57,granville,watchman,granvillewatchman,9099221712,2/12/03,20292,,"INSERT into customer values (57,granville,watchman,granvillewatchman,9099221712,37664,20292"
+58,marquerite,dearborn,marqueritedearborn,3973863623,2/19/10,59087,,"INSERT into customer values (58,marquerite,dearborn,marqueritedearborn,3973863623,40228,59087"
+59,arielle,ketcham,arielleketcham,5989448169,12/13/00,74733,,"INSERT into customer values (59,arielle,ketcham,arielleketcham,5989448169,36873,74733"
+60,shona,buggs,shonabuggs,3870533086,10/31/14,54964,,"INSERT into customer values (60,shona,buggs,shonabuggs,3870533086,41943,54964"
+61,aleta,ciesla,aletaciesla,7890121350,9/18/11,20318,,"INSERT into customer values (61,aleta,ciesla,aletaciesla,7890121350,40804,20318"
+62,jenni,wichman,jenniwichman,5493849316,6/24/12,70722,,"INSERT into customer values (62,jenni,wichman,jenniwichman,5493849316,41084,70722"
+63,cuc,phinney,cucphinney,4034485220,11/2/17,94265,,"INSERT into customer values (63,cuc,phinney,cucphinney,4034485220,43041,94265"
+64,danica,fleig,danicafleig,2407424721,10/7/09,65882,,"INSERT into customer values (64,danica,fleig,danicafleig,2407424721,40093,65882"
+65,shaquana,emigh,shaquanaemigh,7336705261,11/21/18,23176,,"INSERT into customer values (65,shaquana,emigh,shaquanaemigh,7336705261,43425,23176"
+66,brinda,master,brindamaster,7063506366,4/30/13,40005,,"INSERT into customer values (66,brinda,master,brindamaster,7063506366,41394,40005"
+67,janell,hinojos,janellhinojos,5725856292,5/13/09,17513,,"INSERT into customer values (67,janell,hinojos,janellhinojos,5725856292,39946,17513"
+68,karri,celestin,karricelestin,4913668828,11/16/19,54153,,"INSERT into customer values (68,karri,celestin,karricelestin,4913668828,43785,54153"
+69,enid,bouley,enidbouley,7652588054,10/8/08,26842,,"INSERT into customer values (69,enid,bouley,enidbouley,7652588054,39729,26842"
+70,desire,klenke,desireklenke,3346471031,9/16/09,62715,,"INSERT into customer values (70,desire,klenke,desireklenke,3346471031,40072,62715"
+71,brian,chamberlain,brianchamberlain,6199003512,5/31/06,81287,,"INSERT into customer values (71,brian,chamberlain,brianchamberlain,6199003512,38868,81287"
+72,kristeen,farabaugh,kristeenfarabaugh,2132361186,11/18/03,62313,,"INSERT into customer values (72,kristeen,farabaugh,kristeenfarabaugh,2132361186,37943,62313"
+73,gilda,vanatta,gildavanatta,1399909156,4/10/02,61670,,"INSERT into customer values (73,gilda,vanatta,gildavanatta,1399909156,37356,61670"
+74,princess,bumbrey,princessbumbrey,7585218231,10/21/05,25323,,"INSERT into customer values (74,princess,bumbrey,princessbumbrey,7585218231,38646,25323"
+75,earlie,townson,earlietownson,4315657545,12/17/05,32216,,"INSERT into customer values (75,earlie,townson,earlietownson,4315657545,38703,32216"
+76,fumiko,laliberte,fumikolaliberte,8202658320,7/29/17,44089,,"INSERT into customer values (76,fumiko,laliberte,fumikolaliberte,8202658320,42945,44089"
+77,sherie,chason,sheriechason,5227169003,11/2/07,73160,,"INSERT into customer values (77,sherie,chason,sheriechason,5227169003,39388,73160"
+78,gricelda,maravilla,griceldamaravilla,5175954290,1/28/10,12521,,"INSERT into customer values (78,gricelda,maravilla,griceldamaravilla,5175954290,40206,12521"
+79,serafina,knoll,serafinaknoll,3971862459,8/7/17,71546,,"INSERT into customer values (79,serafina,knoll,serafinaknoll,3971862459,42954,71546"
+80,sachiko,younkin,sachikoyounkin,6988174972,11/20/11,14902,,"INSERT into customer values (80,sachiko,younkin,sachikoyounkin,6988174972,40867,14902"
+81,jena,noles,jenanoles,6465512454,2/4/02,56554,,"INSERT into customer values (81,jena,noles,jenanoles,6465512454,37291,56554"
+82,shelby,wiser,shelbywiser,4216134684,11/13/13,90874,,"INSERT into customer values (82,shelby,wiser,shelbywiser,4216134684,41591,90874"
+83,margareta,spies,margaretaspies,1574046129,10/15/17,80744,,"INSERT into customer values (83,margareta,spies,margaretaspies,1574046129,43023,80744"
+84,dinorah,furey,dinorahfurey,4525786573,8/5/19,68377,,"INSERT into customer values (84,dinorah,furey,dinorahfurey,4525786573,43682,68377"
+85,kiyoko,lechuga,kiyokolechuga,2459628726,3/7/09,70268,,"INSERT into customer values (85,kiyoko,lechuga,kiyokolechuga,2459628726,39879,70268"
+86,danny,kreger,dannykreger,3299915364,12/10/06,67139,,"INSERT into customer values (86,danny,kreger,dannykreger,3299915364,39061,67139"
+87,nolan,fenwick,nolanfenwick,6153377158,9/26/12,53833,,"INSERT into customer values (87,nolan,fenwick,nolanfenwick,6153377158,41178,53833"
+88,lesli,unrein,lesliunrein,3149808366,4/30/08,13433,,"INSERT into customer values (88,lesli,unrein,lesliunrein,3149808366,39568,13433"
+89,donya,bartle,donyabartle,6415301540,12/15/11,84832,,"INSERT into customer values (89,donya,bartle,donyabartle,6415301540,40892,84832"
+90,palma,flanery,palmaflanery,5727333165,7/25/14,11419,,"INSERT into customer values (90,palma,flanery,palmaflanery,5727333165,41845,11419"
+91,kenny,clothier,kennyclothier,3348221977,6/30/16,55708,,"INSERT into customer values (91,kenny,clothier,kennyclothier,3348221977,42551,55708"
+92,kristen,lossing,kristenlossing,1447995542,6/14/06,91583,,"INSERT into customer values (92,kristen,lossing,kristenlossing,1447995542,38882,91583"
+93,karoline,felix,karolinefelix,6045960481,12/16/16,13418,,"INSERT into customer values (93,karoline,felix,karolinefelix,6045960481,42720,13418"
+94,alan,voll,alanvoll,6550630374,6/18/05,51928,,"INSERT into customer values (94,alan,voll,alanvoll,6550630374,38521,51928"
+95,glenda,woolfolk,glendawoolfolk,5201408906,4/18/10,69511,,"INSERT into customer values (95,glenda,woolfolk,glendawoolfolk,5201408906,40286,69511"
+96,alyson,hosack,alysonhosack,7948631631,4/26/09,45903,,"INSERT into customer values (96,alyson,hosack,alysonhosack,7948631631,39929,45903"
+97,francis,sines,francissines,7487461319,10/11/20,87340,,"INSERT into customer values (97,francis,sines,francissines,7487461319,44115,87340"
+98,riley,bagnall,rileybagnall,6296423355,6/9/19,81406,,"INSERT into customer values (98,riley,bagnall,rileybagnall,6296423355,43625,81406"
+99,carmina,camp,carminacamp,4463039111,5/26/02,39626,,"INSERT into customer values (99,carmina,camp,carminacamp,4463039111,37402,39626"
+100,alethia,tiemann,alethiatiemann,8153755355,7/31/06,46819,,
+101,deborah,molinar,deborahmolinar,9277455905,8/26/12,81790,,
+102,marvella,huckstep,marvellahuckstep,8277825592,3/29/10,58280,,
+103,sallie,briley,salliebriley,6752964850,1/7/08,39751,,
+104,scottie,backer,scottiebacker,5294952832,11/12/16,45440,,
+105,beatriz,kinsey,beatrizkinsey,8197365737,8/2/08,34032,,
+106,mason,carrow,masoncarrow,2699464639,6/26/13,96608,,
+107,regenia,blish,regeniablish,8624225165,3/2/02,12705,,
+108,necole,faria,necolefaria,4943691153,2/6/02,72101,,
+109,samantha,hadfield,samanthahadfield,6391909977,10/30/14,50951,,
+110,lida,sing,lidasing,7261865671,10/8/19,77050,,
+111,bette,church,bettechurch,2046086807,12/19/05,13439,,
+112,illa,friscia,illafriscia,5460904674,8/15/03,80235,,
+113,magdalena,clabaugh,magdalenaclabaugh,3919576570,8/23/04,24046,,
+114,sol,lemley,sollemley,4389261797,9/22/20,88666,,
+115,angelyn,nave,angelynnave,2042410742,1/22/20,99947,,
+116,lorie,hempstead,loriehempstead,3766100950,4/23/01,74844,,
+117,darlena,brubaker,darlenabrubaker,2751636036,5/19/18,49068,,
+118,ivory,almonte,ivoryalmonte,4752926615,4/9/12,42010,,
+119,keva,sauage,kevasauage,8963261939,2/26/02,51720,,
+120,krystin,morita,krystinmorita,6741126344,6/6/05,15893,,
+121,margarito,hintzen,margaritohintzen,8012910859,12/9/01,45405,,
+122,alanna,gillispie,alannagillispie,3120793542,12/1/05,86786,,
+123,alayna,rosenblatt,alaynarosenblatt,1174386835,12/15/07,20769,,
+124,deeann,thomsen,deeannthomsen,9452301791,10/5/05,28385,,
+125,guy,moulton,guymoulton,8442689331,2/27/05,14198,,
+126,ming,scudder,mingscudder,3412038731,10/26/12,77860,,
+127,mickey,espino,mickeyespino,5798651130,4/5/01,55371,,
+128,mellissa,mortimore,mellissamortimore,5708938011,7/3/17,33758,,
+129,lesia,stoute,lesiastoute,9436012977,12/28/01,19630,,
+130,pauletta,murton,paulettamurton,8420071761,7/16/10,23634,,
+131,solomon,chamberlin,solomonchamberlin,2439224098,11/22/18,51656,,
+132,neville,yocom,nevilleyocom,1325698081,11/6/19,26663,,
+133,vera,edmiston,veraedmiston,4324355358,11/19/18,15010,,
+134,lawerence,amburn,lawerenceamburn,3548335140,3/28/06,13590,,
+135,cedrick,agnew,cedrickagnew,6005206012,3/20/20,54796,,
+136,melinda,kuchta,melindakuchta,4415364539,10/27/20,42297,,
+137,alma,gelinas,almagelinas,2227815377,1/22/05,90054,,
+138,francis,sikes,francissikes,4002355775,5/31/09,89664,,
+139,minerva,giles,minervagiles,5924487011,4/4/04,50234,,
+140,nikki,iskra,nikkiiskra,5476999105,8/23/14,97491,,
+141,lore,coil,lorecoil,8110254998,5/19/04,47450,,
+142,marlena,craner,marlenacraner,7295987712,10/11/14,28937,,
+143,darius,trojacek,dariustrojacek,3330303982,12/20/06,95142,,
+144,sade,gasaway,sadegasaway,4155771830,5/18/19,45885,,
+145,sybil,rahman,sybilrahman,1122504020,2/6/12,92945,,
+146,zoraida,sumner,zoraidasumner,9487243823,11/7/09,69886,,
+147,raina,mccrae,rainamccrae,3071642757,3/9/20,21148,,
+148,elsa,mcspadden,elsamcspadden,5608308172,6/14/13,83913,,
+149,bernadine,chung,bernadinechung,5712599094,11/30/18,74644,,
+150,francie,frase,franciefrase,2094705249,3/1/03,26286,,
+151,mariana,vavra,marianavavra,8291814986,5/22/15,86177,,
+152,nakita,primer,nakitaprimer,3044050620,1/3/05,85936,,
+153,aletha,hardesty,alethahardesty,4615341100,1/3/01,63481,,
+154,dwain,sargeant,dwainsargeant,2474765537,8/15/17,32801,,
+155,thea,hubbs,theahubbs,1647178075,3/2/15,22407,,
+156,caleb,peters,calebpeters,1434385511,6/4/07,12851,,
+157,sparkle,kaestner,sparklekaestner,3391421826,5/15/15,94225,,
+158,narcisa,hsieh,narcisahsieh,4202413949,8/4/14,75869,,
+159,sherwood,vanalstyne,sherwoodvanalstyne,5345758656,11/15/04,25777,,
+160,jeanice,joy,jeanicejoy,9102519303,8/28/16,28463,,
+161,bert,riter,bertriter,4343768257,5/1/05,47444,,
+162,dorotha,aldinger,dorothaaldinger,1520804731,10/2/13,56650,,
+163,anisha,thomson,anishathomson,7844453351,12/12/13,83685,,
+164,rufus,amerine,rufusamerine,3809401631,2/24/19,74124,,
+165,roslyn,alaimo,roslynalaimo,1423120419,8/20/10,63022,,
+166,noelle,raybon,noelleraybon,3282431702,12/10/09,37610,,
+167,shanae,hanger,shanaehanger,9806287353,1/28/08,63342,,
+168,william,hopf,williamhopf,8157813529,9/5/17,46282,,
+169,adolfo,bella,adolfobella,9407110132,4/27/00,30109,,
+170,xenia,schubert,xeniaschubert,9176286016,6/18/19,79287,,
+171,brenton,tokarski,brentontokarski,1498281165,2/20/09,84851,,
+172,hal,bender,halbender,2068369345,4/14/12,36551,,
+173,geraldine,border,geraldineborder,5292678641,9/27/15,45855,,
+174,setsuko,pardo,setsukopardo,6236543198,11/21/19,25646,,
+175,meghan,sydnor,meghansydnor,3170131926,3/28/15,30696,,
+176,lavern,gard,laverngard,1217186343,3/5/01,55943,,
+177,cyrus,beckham,cyrusbeckham,7780188130,2/25/05,55281,,
+178,leeanne,fortunato,leeannefortunato,1817283459,12/2/01,83393,,
+179,nilda,deyoung,nildadeyoung,3421845828,10/22/03,75793,,
+180,marylee,greenburg,maryleegreenburg,9525276276,9/28/05,31053,,
+181,gay,aubert,gayaubert,3166338222,4/24/12,20235,,
+182,janel,carley,janelcarley,6393385761,5/31/02,59877,,
+183,damaris,nestle,damarisnestle,2945238494,1/22/18,89568,,
+184,jeanine,hoerr,jeaninehoerr,7438735317,6/22/00,25295,,
+185,wiley,scotto,wileyscotto,4879242153,5/3/06,30186,,
+186,dian,cobian,diancobian,7578883180,4/4/14,29568,,
+187,brendan,zilnicki,brendanzilnicki,5409265095,12/26/14,62238,,
+188,mana,seegmiller,manaseegmiller,8899115951,10/23/04,60571,,
+189,flavia,nitta,flavianitta,4792708577,10/10/09,41611,,
+190,humberto,ware,humbertoware,9352834611,3/25/02,19990,,
+191,ned,permenter,nedpermenter,7576147279,2/15/05,81036,,
+192,albertina,junkin,albertinajunkin,8267973316,6/27/15,68189,,
+193,rosia,duron,rosiaduron,1507671596,12/24/17,21129,,
+194,kena,stallings,kenastallings,4570114842,1/11/07,54806,,
+195,lolita,pringle,lolitapringle,7345187600,10/10/18,27265,,
+196,kristen,gilley,kristengilley,8027315922,10/16/01,52566,,
+197,genaro,koga,genarokoga,8113412793,10/11/16,33161,,
+198,suzanna,putman,suzannaputman,9701201398,3/7/19,20672,,
+199,candy,konieczny,candykonieczny,8594744182,4/8/17,88507,,
+200,ozella,conner,ozellaconner,8814984242,8/8/10,39303,,
+201,leonel,hock,leonelhock,2691008387,3/6/01,43493,,
+202,vannesa,millard,vannesamillard,5928273042,7/28/01,40451,,
+203,melonie,villacorta,melonievillacorta,6892004821,1/28/02,60014,,
+204,dorine,zeitler,dorinezeitler,5629836116,7/10/17,37115,,
+205,bridget,conyers,bridgetconyers,8256952664,9/28/07,57899,,
+206,jacklyn,dyment,jacklyndyment,6249510939,9/10/04,93813,,
+207,felicita,maclachlan,felicitamaclachlan,4853885082,11/27/16,46011,,
+208,herbert,gamache,herbertgamache,3107461352,12/31/10,74611,,
+209,antonietta,llewellyn,antoniettallewellyn,4220982212,4/17/04,38540,,
+210,pennie,alling,penniealling,6256773072,10/15/13,67138,,
+211,laree,kay,lareekay,7376713578,3/19/14,29870,,
+212,antonio,navarette,antonionavarette,7683145025,5/10/17,12970,,
+213,steve,mainor,stevemainor,8666540127,12/10/16,70993,,
+214,gertrud,sather,gertrudsather,2837031711,12/10/02,17672,,
+215,nan,beverley,nanbeverley,5841693647,1/21/13,33144,,
+216,walter,belford,walterbelford,7461521828,5/3/13,74056,,
+217,colby,hobart,colbyhobart,3324867534,2/11/15,21970,,
+218,patrick,nocera,patricknocera,3065903637,4/26/08,46850,,
+219,hilary,modeste,hilarymodeste,7570804763,3/9/04,79505,,
+220,elke,licht,elkelicht,4040825542,3/31/07,22697,,
+221,faustina,dunson,faustinadunson,2661258602,6/4/19,59138,,
+222,tara,clingman,taraclingman,9736160490,6/13/17,67541,,
+223,elva,hochmuth,elvahochmuth,1033991437,4/9/19,20584,,
+224,opal,groover,opalgroover,2547375622,12/12/12,91959,,
+225,maryln,ferris,marylnferris,5372677220,10/14/07,23287,,
+226,katrina,almon,katrinaalmon,3326185101,10/15/07,90111,,
+227,stephane,labelle,stephanelabelle,6815408474,12/24/10,18043,,
+228,christene,gloria,christenegloria,4289749317,12/21/16,10440,,
+229,araceli,majewski,aracelimajewski,6694746657,9/17/16,28382,,
+230,marilou,funderburg,mariloufunderburg,9510654994,7/12/12,46409,,
+231,america,tocci,americatocci,8927058980,8/20/20,24427,,
+232,erich,ragin,erichragin,6540951770,3/14/13,13196,,
+233,neoma,pellegrino,neomapellegrino,9174592333,5/18/16,30490,,
+234,sid,lamore,sidlamore,7171506624,2/8/09,52043,,
+235,stella,morman,stellamorman,8350444434,10/11/18,76428,,
+236,ha,durrah,hadurrah,2263945221,11/11/01,25218,,
+237,chantel,absher,chantelabsher,2963024478,1/7/06,71925,,
+238,torri,wert,torriwert,1292113878,8/17/12,24967,,
+239,michelina,holscher,michelinaholscher,8425869617,3/14/20,55219,,
+240,verlene,arviso,verlenearviso,2040226164,4/16/03,11004,,
+241,lois,tew,loistew,4391351419,5/1/16,17458,,
+242,miguelina,hoyte,miguelinahoyte,2633681474,1/14/04,18635,,
+243,evelina,willaert,evelinawillaert,3182430715,2/16/16,21752,,
+244,ranae,topp,ranaetopp,1390823835,9/28/10,73557,,
+245,carolann,veasley,carolannveasley,2431559796,7/15/11,53271,,
+246,jeannette,gravelle,jeannettegravelle,8630588031,12/14/08,70563,,
+247,lenita,slevin,lenitaslevin,1814595398,7/22/16,87395,,
+248,valentina,quinby,valentinaquinby,3821464410,4/6/13,77413,,
+249,latoyia,bushway,latoyiabushway,2976948684,5/20/11,59771,,
+250,keitha,wold,keithawold,1300198943,6/3/01,53974,,
+251,flora,plascencia,floraplascencia,2187426563,8/8/05,94935,,
+252,azucena,herder,azucenaherder,1176961400,8/22/14,33943,,
+253,kathi,lilienthal,kathililienthal,8836667087,3/28/12,97650,,
+254,andrea,saine,andreasaine,9842952511,1/3/02,71827,,
+255,shawna,riviera,shawnariviera,2855794967,8/27/06,63181,,
+256,nolan,harwell,nolanharwell,1624190762,3/11/05,95381,,
+257,jennell,leverich,jennellleverich,8777779310,9/6/08,35773,,
+258,birgit,puente,birgitpuente,5664009521,11/16/08,15466,,
+259,gerry,medal,gerrymedal,5405787923,12/31/05,11370,,
+260,palma,sample,palmasample,5991939601,2/25/04,14429,,
+261,annalisa,rotolo,annalisarotolo,1124061571,5/25/08,63423,,
+262,eilene,jolly,eilenejolly,8246452687,9/14/02,50292,,
+263,kathey,keep,katheykeep,6688659484,7/11/03,98592,,
+264,fanny,dutra,fannydutra,7263837064,6/28/05,50943,,
+265,leanne,proto,leanneproto,5916789051,6/4/05,81193,,
+266,traci,heier,traciheier,6234110388,12/29/01,21939,,
+267,jennette,everett,jennetteeverett,3091308455,5/20/02,62790,,
+268,levi,sharpton,levisharpton,5352850942,3/31/08,38064,,
+269,jackson,sills,jacksonsills,1535712918,7/18/03,20399,,
+270,fabiola,virden,fabiolavirden,5309741492,5/4/03,67616,,
+271,wan,zajac,wanzajac,1982932251,6/22/01,70364,,
+272,franklin,kruger,franklinkruger,8964266717,4/16/13,15366,,
+273,delcie,graffam,delciegraffam,1089501689,3/1/12,88217,,
+274,yolonda,jorgenson,yolondajorgenson,5160934352,6/8/18,78866,,
+275,kraig,grove,kraiggrove,8046996487,5/13/00,30457,,
+276,joanna,westman,joannawestman,8588002302,2/12/12,84404,,
+277,luetta,wyse,luettawyse,6097093388,12/18/18,51094,,
+278,nana,neilsen,nananeilsen,1884257465,8/20/12,80944,,
+279,elidia,gillett,elidiagillett,9679788842,10/15/01,48656,,
+280,lien,brigmond,lienbrigmond,3786143408,8/21/15,63502,,
+281,meaghan,majeed,meaghanmajeed,9325333397,9/22/15,70013,,
+282,dominica,lanterman,dominicalanterman,1935388543,11/30/01,68153,,
+283,cami,ryals,camiryals,4557394898,2/27/13,10006,,
+284,caroline,fleischer,carolinefleischer,6737391630,7/27/19,73688,,
+285,joyce,pleasant,joycepleasant,1640888766,8/23/02,21106,,
+286,kyung,hearne,kyunghearne,4274617753,10/12/04,68829,,
+287,ranee,boomhower,raneeboomhower,9139748316,4/21/06,59035,,
+288,jong,steele,jongsteele,6746247624,5/7/11,47971,,
+289,benton,duty,bentonduty,9177639807,9/1/16,54375,,
+290,margrett,hanks,margretthanks,1310311838,3/19/18,35792,,
+291,sherwood,lingenfelter,sherwoodlingenfelter,9218006624,8/6/09,40459,,
+292,livia,starr,liviastarr,9495385982,6/17/00,67107,,
+293,edna,holt,ednaholt,4482951766,3/5/13,13869,,
+294,denise,balser,denisebalser,3600703260,6/22/18,67635,,
+295,rolf,galley,rolfgalley,6351797203,9/12/07,18949,,
+296,enedina,mika,enedinamika,9967805882,3/12/20,58805,,
+297,brandon,authement,brandonauthement,1151814796,7/11/18,29022,,
+298,afton,dees,aftondees,8647609192,12/31/06,73458,,
+299,cecile,kealey,cecilekealey,1389923403,6/16/05,35229,,
+300,dusty,bickel,dustybickel,3830467880,10/29/15,69052,,
+301,nichelle,wasko,nichellewasko,3501755538,2/8/20,47303,,
+302,leeanna,gregson,leeannagregson,5079903135,7/11/20,47316,,
+303,perry,daigneault,perrydaigneault,3649555804,11/21/17,78481,,
+304,solange,borror,solangeborror,5106989998,1/23/11,48167,,
+305,jamey,kirwin,jameykirwin,7825902040,6/17/20,63770,,
+306,jani,foulds,janifoulds,4101521422,4/28/14,48820,,
+307,ted,hartig,tedhartig,7287096399,10/2/14,86981,,
+308,grace,fitch,gracefitch,9594955176,10/20/03,20067,,
+309,idalia,peluso,idaliapeluso,9243582763,7/13/17,36369,,
+310,gerri,rotter,gerrirotter,4237514892,7/18/15,99357,,
+311,mervin,woolum,mervinwoolum,7686037797,1/18/05,14839,,
+312,nobuko,bialek,nobukobialek,8190675678,11/26/20,62098,,
+313,kizzy,mancil,kizzymancil,3439475493,8/25/01,55328,,
+314,nelda,lucian,neldalucian,8401653515,6/17/04,71279,,
+315,odessa,marshburn,odessamarshburn,7218748715,1/21/11,88346,,
+316,armida,johanson,armidajohanson,2261077342,4/13/16,93738,,
+317,yang,lubinski,yanglubinski,6592295038,1/1/21,18699,,
+318,luciana,breneman,lucianabreneman,6550172505,8/5/12,85936,,
+319,joaquin,southworth,joaquinsouthworth,1007668007,12/1/16,94507,,
+320,madalyn,pettiford,madalynpettiford,2956296163,9/30/06,82845,,
+321,annika,seamon,annikaseamon,8555878453,7/17/00,59731,,
+322,deanna,cleek,deannacleek,4198826435,11/1/04,44110,,
+323,lynn,clifton,lynnclifton,1147056862,6/13/13,34234,,
+324,horacio,gilford,horaciogilford,7265638042,4/10/14,49802,,
+325,silvana,gosier,silvanagosier,8802477669,9/20/15,69449,,
+326,casimira,bakker,casimirabakker,3417569132,1/2/15,58329,,
+327,milagros,hixson,milagroshixson,5972121567,11/3/10,67297,,
+328,vaughn,revilla,vaughnrevilla,2704737317,1/12/20,27749,,
+329,cornelia,holly,corneliaholly,6624036224,9/2/01,91838,,
+330,maryanna,klemme,maryannaklemme,9445190175,2/13/14,20516,,
+331,ines,breeden,inesbreeden,5439710078,3/19/12,63230,,
+332,bill,kuhlmann,billkuhlmann,8125134928,9/2/00,57277,,
+333,ilda,bethel,ildabethel,7823062353,12/9/15,13569,,
+334,norene,boudreau,noreneboudreau,1772598371,6/11/14,40392,,
+335,sheron,lefever,sheronlefever,7600508421,8/9/02,56728,,
+336,stefany,pietrzak,stefanypietrzak,4333506299,7/3/06,70955,,
+337,cathleen,brawn,cathleenbrawn,4090394041,6/21/05,34482,,
+338,loriann,wedeking,loriannwedeking,5871497529,12/13/01,43771,,
+339,jonathon,red,jonathonred,7399616672,3/30/01,76140,,
+340,genie,muma,geniemuma,5015998155,7/28/06,71580,,
+341,arletha,badalamenti,arlethabadalamenti,8264470251,6/22/14,39899,,
+342,elza,buser,elzabuser,6376474045,3/20/15,87851,,
+343,alaina,lykes,alainalykes,9971627845,7/19/09,64824,,
+344,pamula,dalzell,pamuladalzell,1542124067,8/7/13,29057,,
+345,maricela,jhonson,maricelajhonson,8598907308,9/28/20,18556,,
+346,audry,mcgarr,audrymcgarr,2950559481,12/9/07,21792,,
+347,kyla,bingaman,kylabingaman,4469026728,1/31/14,78785,,
+348,shyla,tubman,shylatubman,3551409542,7/31/05,93133,,
+349,scottie,felton,scottiefelton,6798545181,11/6/15,27087,,
+350,terrance,joy,terrancejoy,2251216807,9/13/03,45427,,
+351,yee,trieu,yeetrieu,9500077571,7/24/06,86287,,
+352,houston,oller,houstonoller,8304701421,12/17/02,14068,,
+353,ladawn,ates,ladawnates,2027385779,10/19/03,16638,,
+354,marylouise,dorn,marylouisedorn,6447851018,4/26/20,39324,,
+355,rex,merriam,rexmerriam,4991591044,8/31/10,30174,,
+356,rosetta,heidenreich,rosettaheidenreich,8578402327,10/7/02,49082,,
+357,billye,serafin,billyeserafin,9969976433,8/30/03,41602,,
+358,brittaney,hermes,brittaneyhermes,3148408572,4/28/13,18565,,
+359,nannie,colligan,nanniecolligan,1667746542,9/28/01,70967,,
+360,emmy,gallaway,emmygallaway,6005937394,7/1/12,71778,,
+361,giselle,lou,gisellelou,2489749747,8/20/19,77075,,
+362,pam,melendez,pammelendez,9050477242,10/12/05,36029,,
+363,julius,blazek,juliusblazek,4189196428,9/2/09,55548,,
+364,krystina,lucca,krystinalucca,9809850350,7/18/07,50541,,
+365,raisa,musgrove,raisamusgrove,2706265453,7/5/17,95434,,
+366,carmelo,wain,carmelowain,6848729102,4/22/15,73587,,
+367,kera,gilkison,keragilkison,1320081507,8/28/18,19294,,
+368,xavier,trotta,xaviertrotta,8633453166,9/12/10,59873,,
+369,florance,lawhon,florancelawhon,8848762320,10/15/02,30087,,
+370,albertha,digennaro,alberthadigennaro,8158994695,3/10/06,73119,,
+371,andra,bevel,andrabevel,4549526443,12/23/08,10491,,
+372,winford,hamlin,winfordhamlin,2125783207,8/22/05,31659,,
+373,bonny,horney,bonnyhorney,5765723343,7/31/07,73359,,
+374,codi,garrels,codigarrels,3727860399,2/4/05,57775,,
+375,kristeen,warman,kristeenwarman,1063586592,5/3/13,58798,,
+376,trinidad,graziano,trinidadgraziano,2419712741,3/16/08,61744,,
+377,viva,roda,vivaroda,8304767447,12/29/17,81337,,
+378,manual,vales,manualvales,1519330706,6/24/09,66022,,
+379,brendon,puente,brendonpuente,4705301699,7/8/16,62665,,
+380,nathalie,devita,nathaliedevita,6413223099,7/23/01,72299,,
+381,zelda,ogren,zeldaogren,4879843576,4/7/14,56573,,
+382,sadie,hazelton,sadiehazelton,8264766845,12/6/01,51000,,
+383,vinnie,bains,vinniebains,3957447300,12/22/01,77367,,
+384,frederick,rankins,frederickrankins,3928093890,5/10/03,32277,,
+385,trish,vickers,trishvickers,7881016819,12/27/01,30000,,
+386,masako,allman,masakoallman,4023914017,9/12/18,57365,,
+387,ferne,villalpando,fernevillalpando,9516155560,5/27/04,20706,,
+388,elna,kowal,elnakowal,2880907076,12/16/10,38651,,
+389,aaron,castello,aaroncastello,9576709999,1/9/03,69765,,
+390,gerard,barrientos,gerardbarrientos,1823756243,7/20/02,32354,,
+391,wes,imel,wesimel,8763209518,9/5/09,35026,,
+392,stella,sears,stellasears,3760194233,7/4/05,94002,,
+393,josette,vavra,josettevavra,7309686359,7/30/15,73921,,
+394,guadalupe,linen,guadalupelinen,7183530944,2/13/12,18779,,
+395,jeremiah,damiani,jeremiahdamiani,2581235099,12/17/03,29973,,
+396,roxy,lauber,roxylauber,8137382961,6/7/01,48684,,
+397,federico,biros,federicobiros,2573472392,8/27/08,68088,,
+398,sol,dantonio,soldantonio,3446916696,3/25/17,55530,,
+399,lucas,anchondo,lucasanchondo,3886764596,2/11/10,65346,,
+400,ok,then,okthen,6162784159,2/20/07,62234,,
+401,mei,vaz,meivaz,5834746367,2/18/14,37252,,
+402,janelle,haddox,janellehaddox,2174033978,11/18/11,15652,,
+403,donald,trollinger,donaldtrollinger,5787356937,4/17/14,50619,,
+404,shakira,moreles,shakiramoreles,8973018642,1/6/20,58065,,
+405,crista,cuccia,cristacuccia,8654834550,8/22/05,31799,,
+406,phung,dinh,phungdinh,6898588226,2/8/10,60265,,
+407,paul,lockett,paullockett,7215287852,8/13/09,16694,,
+408,merlyn,hults,merlynhults,1270866899,3/10/09,91269,,
+409,kym,rotter,kymrotter,8252621045,2/15/10,85537,,
+410,jocelyn,akey,jocelynakey,6281588762,5/23/15,16853,,
+411,yukiko,furtado,yukikofurtado,2596928182,10/8/16,96927,,
+412,sonny,wilner,sonnywilner,9202495509,1/16/10,16462,,
+413,verna,beller,vernabeller,5898080321,8/12/06,61401,,
+414,hai,lippert,hailippert,1807609328,12/30/09,44379,,
+415,deeann,burdette,deeannburdette,3245254032,11/9/20,85343,,
+416,londa,gamache,londagamache,3239410990,12/1/07,43049,,
+417,shaina,sentell,shainasentell,4021256406,11/5/00,64016,,
+418,dominick,dolson,dominickdolson,1960934126,7/23/17,71217,,
+419,len,bufford,lenbufford,1930541574,8/9/11,25385,,
+420,luvenia,mattis,luveniamattis,4630103998,6/9/09,69732,,
+421,alysa,harlow,alysaharlow,5510619576,1/22/00,58397,,
+422,eliz,jennings,elizjennings,2560530549,12/24/09,22210,,
+423,claris,lamons,clarislamons,1609048835,12/20/07,65088,,
+424,vina,uhlig,vinauhlig,6641374630,7/4/19,43084,,
+425,glendora,hemminger,glendorahemminger,6775879093,8/8/17,62613,,
+426,nelly,hardman,nellyhardman,9242553346,12/5/20,96800,,
+427,cinda,hargett,cindahargett,5453996287,11/3/13,52348,,
+428,clarinda,pett,clarindapett,2839927737,4/10/18,25678,,
+429,aisha,waller,aishawaller,8659636991,10/11/03,63654,,
+430,carina,maybee,carinamaybee,2435323737,7/26/16,88688,,
+431,joanna,savoy,joannasavoy,3328596539,5/18/08,92743,,
+432,kayleen,watts,kayleenwatts,8431737901,4/30/15,90651,,
+433,tobias,wronski,tobiaswronski,1043564307,4/11/05,80490,,
+434,karrie,gust,karriegust,6720369818,12/28/05,88418,,
+435,migdalia,schimmel,migdaliaschimmel,1266228940,8/1/10,58595,,
+436,markita,morphis,markitamorphis,6395443107,1/22/13,97002,,
+437,sid,welk,sidwelk,5309115526,2/6/03,24468,,
+438,iliana,strauch,ilianastrauch,6774587002,8/26/20,81605,,
+439,tawana,showers,tawanashowers,5134479120,2/6/02,80986,,
+440,keren,godbout,kerengodbout,9036987788,12/1/08,93651,,
+441,laureen,wrinkle,laureenwrinkle,3611808462,4/12/13,25544,,
+442,grady,kellogg,gradykellogg,9832847399,3/18/02,34264,,
+443,ulrike,gurley,ulrikegurley,7478652799,5/19/02,41491,,
+444,gracie,rawlings,gracierawlings,8882534715,10/9/11,39032,,
+445,margurite,knebel,marguriteknebel,4431357147,11/28/12,76853,,
+446,claud,lecompte,claudlecompte,7391360971,9/29/09,73469,,
+447,cole,vanhouten,colevanhouten,1796811145,11/4/02,90948,,
+448,frances,lloyd,franceslloyd,7240256901,4/6/09,35339,,
+449,lakendra,schlottmann,lakendraschlottmann,4966116049,9/30/00,31704,,
+450,rocky,pridmore,rockypridmore,3986449726,1/13/17,85030,,
+451,esmeralda,platts,esmeraldaplatts,9748409123,8/14/10,13315,,
+452,rod,kropf,rodkropf,6988411713,4/30/15,89575,,
+453,marilynn,speer,marilynnspeer,1680020448,8/27/12,24933,,
+454,ira,melendez,iramelendez,6171941347,5/8/00,11837,,
+455,hae,leininger,haeleininger,6425256593,3/31/08,84806,,
+456,melita,hiemstra,melitahiemstra,8796760502,12/29/18,72987,,
+457,jacquetta,baillargeon,jacquettabaillargeon,4559034715,12/2/15,57968,,
+458,lucio,shahid,lucioshahid,1017822064,4/25/14,62077,,
+459,travis,hamlett,travishamlett,9441609883,6/23/02,71487,,
+460,mariko,lemoine,marikolemoine,2107692112,11/4/02,77001,,
+461,janina,jennison,janinajennison,5657353354,3/11/03,56433,,
+462,marina,ocon,marinaocon,6156753124,1/30/12,58763,,
+463,laurette,crumpler,laurettecrumpler,6906498606,9/29/09,72664,,
+464,britteny,frierson,brittenyfrierson,4966568614,3/28/05,33692,,
+465,kerri,grizzle,kerrigrizzle,5019504749,4/3/03,24823,,
+466,trudi,deshazo,trudideshazo,8905681944,7/24/15,76646,,
+467,keitha,muncy,keithamuncy,9687427660,9/29/03,92668,,
+468,gerri,gargano,gerrigargano,4337121036,9/26/16,77129,,
+469,lin,veliz,linveliz,2199573005,11/12/17,58353,,
+470,camelia,drennen,cameliadrennen,6960999259,3/4/19,58480,,
+471,tatyana,reeser,tatyanareeser,6915275468,1/1/04,63192,,
+472,felisa,campo,felisacampo,6598144284,5/28/02,67050,,
+473,tyler,frandsen,tylerfrandsen,9526427859,12/16/19,68735,,
+474,mickey,warfield,mickeywarfield,8713849488,10/26/14,62303,,
+475,buster,defilippo,busterdefilippo,9903856298,8/12/04,61014,,
+476,lorine,mchargue,lorinemchargue,5311621377,3/3/17,24948,,
+477,alpha,wicker,alphawicker,2432796177,8/31/15,64362,,
+478,alesha,borey,aleshaborey,3333478182,10/11/16,86365,,
+479,pattie,remo,pattieremo,3286879687,9/27/03,53604,,
+480,yang,granillo,yanggranillo,4114313436,8/13/05,73147,,
+481,lynn,sax,lynnsax,1428691294,8/31/15,40263,,
+482,rosio,hoard,rosiohoard,9971477170,5/9/06,97009,,
+483,cherri,jasinski,cherrijasinski,4785639670,7/6/03,97357,,
+484,phoebe,plotner,phoebeplotner,2605733711,3/19/18,97408,,
+485,silas,selvy,silasselvy,5298769743,4/19/08,85929,,
+486,georgette,chism,georgettechism,3377119068,7/7/06,36112,,
+487,lakiesha,hightower,lakieshahightower,3034550949,1/16/07,20661,,
+488,tona,koss,tonakoss,9069962248,10/1/20,53559,,
+489,lorette,rotondo,loretterotondo,6416064583,5/5/03,67643,,
+490,lorinda,bethke,lorindabethke,2076042529,11/26/16,46012,,
+491,arlen,clinard,arlenclinard,1022941176,9/5/16,61438,,
+492,lesley,lipton,lesleylipton,1071844071,2/21/17,44956,,
+493,rosanne,mayers,rosannemayers,8813522732,3/2/17,73552,,
+494,selina,leffler,selinaleffler,9889378609,3/25/06,82001,,
+495,milford,sang,milfordsang,5684737835,1/31/08,71633,,
+496,geraldine,crimmins,geraldinecrimmins,9741687821,10/30/13,18832,,
+497,veta,crochet,vetacrochet,7416504180,11/14/12,38196,,
+498,haley,warwick,haleywarwick,7336076717,12/21/11,34309,,
+499,dulcie,wehmeyer,dulciewehmeyer,5245242904,5/1/04,78645,,
+500,mechelle,stoneman,mechellestoneman,7181953648,6/6/11,87345,,
